@@ -1,0 +1,50 @@
+{
+    "chatbot_responses": [
+      {
+        "category": "Greetings",
+        "user_input": ["Hi", "Hello", "Hey", "Good morning", "Good afternoon", "Good evening"],
+        "response": ["Hello! Welcome to [Gitam University]. I'm here to help with your queries as a first-year student. How can I assist you today?"]
+      },
+      {
+        "category": "Academic Information",
+        "user_input": ["What is the syllabus for my course?", "Where can I find my timetable?", "What subjects will I study?", "Who is my academic advisor?"],
+        "response": ["You can find your course syllabus and timetable on the college portal under the Academics section.","You will study the subjects related to your domain depending upon the semesters"," If you're unsure who  your academic advisor is, please check the 'My Faculty' section on the portal or contact the department office."]
+      },
+      {
+        "category": "Campus Facilities",
+        "user_input": ["Where is the library?", "How can I access the gym?", "Where is the cafeteria?", "Are there study rooms available?"],
+        "response": ["The library is located in Building A on the second floor, open from 8 AM to 8 PM."," The gym requires a membership, which you can get at the Student Center.","Cafeterias are available in Buildings B and C.","For study rooms, you can book them online via the campus app."]
+      },
+      {
+        "category": "Domain-Specific Queries",
+        "user_input": ["What programming languages will I learn?", "Who are the professors for my department?", "Is there a lab for my domain?", "Can I get domain-related project guidance?"],
+        "response": ["For your domain, you'll primarily learn Python and Java in the first semester."," Labs for practical sessions are held in Room 201."," For project guidance, you can consult with your professors during their office hours or join department-specific clubs for mentorship."]
+      },
+      {
+        "category": "Extracurricular Activities",
+        "user_input": ["What clubs can I join?", "Are there sports facilities?", "Is there a music club?", "How do I participate in cultural events?"],
+        "response": ["Our college offers clubs for music, dance, drama, coding, robotics, and more."," Sports facilities include basketball courts, football fields, and a swimming pool."," Check the Students' Corner on the portal to register for clubs or events."]
+      },
+      {
+        "category": "Hostel and Accommodation",
+        "user_input": ["Where is the hostel?", "What are the hostel rules?", "How can I report maintenance issues?", "Is there a curfew for hostels?"],
+        "response": ["The hostels are located within walking distance of the main campus."," Rules and curfew timings are listed in your hostel welcome kit."," For maintenance issues, submit a request on the hostel app or contact the warden."]
+      },
+      {
+        "category": "Fees and Scholarships",
+        "user_input": ["How do I pay my fees?", "Are there scholarships available?", "What is the deadline for fee payment?", "Can I get a fee receipt?"],
+        "response": ["Fee payments can be made through the college portal under the Finance section."," Scholarships are listed under the Scholarship tab; ensure you apply before the deadline."," Receipts are auto-generated and available for download after payment."]
+      },
+      {
+        "category": "Emergency Assistance",
+        "user_input": ["I feel sick", "Who do I contact in an emergency?", "Is there a medical center on campus?", "How do I report harassment?"],
+        "response": ["For medical assistance, visit the Health Center near Building D."," In case of an emergency, call the campus helpline at 123-456-7890.","To report harassment, reach out to the Counseling and Grievance Cell through the app or visit the office."]
+      },
+      {
+        "category": "Goodbye",
+        "user_input": ["Bye", "Goodbye", "See you later", "Thanks, bye"],
+        "response": ["Goodbye! Have a great day, and feel free to reach out anytime you have questions."]
+      }
+    ]
+  }
+  
